@@ -15,6 +15,7 @@ int main()
 	area = base * height / 2;
 	cout << "삼각형의 넓이는 " << area << " 입니다." << endl;
 	cout << "그렇다고" << endl;
+	cout << "커밋한번더해보자" << endl;
 
 	return 0;
 
